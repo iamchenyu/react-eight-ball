@@ -1,0 +1,12 @@
+.EightBall {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  display: flex; /* use flex to center the text */
+  align-items: center;
+  justify-content: center;
+  color: white;
+  box-shadow: 5px 5px 10px #678; /* create shadow effect for the ball */
+  margin: 50px;
+  cursor: pointer; /* imply the ball can be clicked */
+}
